@@ -1,0 +1,17 @@
+{
+  "name": "twitter-sales-bot",
+  "description": "A Twitter bot that tweets NFT sales!",
+  "author": "Ryan Trattner (github.com/RTISCOOL)",
+  "license": "MIT",
+  "dependencies": {
+    "fetch-nft-metadata": "^1.0.0",
+    "openseasales": "^1.0.1",
+    "request": "^2.88.2",
+    "twitter-api-v2": "^1.12.5",
+    "web3": "^1.7.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
